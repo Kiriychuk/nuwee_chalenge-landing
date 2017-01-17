@@ -26,7 +26,7 @@ body {
 
 
 body, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-	font-family: 'Lato', sans-serif;
+	font-family: 'Roboto', sans-serif;
 }
 h1, h2, h3, h4, h5, h6 {
 	color:#222;
@@ -51,7 +51,7 @@ h5 { font-size: 16px; }
 .txt-uppercase { text-transform: uppercase; }
 
 blockquote {
-	font-family: Georgia, serif;
+	font-family: Roboto, serif;
 }
 
 blockquote.bigquote {
@@ -977,7 +977,7 @@ nav#filter a {
 .testimonial h5 {
 	color: #fff;
 	font-size: 18px;
-	font-family: Georgia, sans-serif;
+	font-family: Roboto, sans-serif;
 	line-height: 1.5em;
 }	
 
