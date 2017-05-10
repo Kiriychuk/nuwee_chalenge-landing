@@ -1,0 +1,46 @@
+.block-text{
+    padding: 20px;
+    font-size:14pt;
+    text-align:center;
+}
+.block-text, a{
+    color: #fff;
+}
+.block-text a{
+    text-decoration: underline;
+}
+.block-text a:hover{
+    color: blue;
+}
+.container-fluid{
+    background: rgb(37,101,137);
+    margin-bottom: 50px;
+}
+div.col-sm-4, div.col-md-4, div.col-lg-4{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+div.desk-winners{
+    box-shadow: 0 0 5px black;
+}
+div.vinners{
+
+    min-height: 200px;
+    max-height: 600px;
+    background: rgb(37,101,137);
+    color: #fff;
+    font-size: 14pt;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+div.vinners .a1{
+/*margin-top: 15px;*/
+}
+
+p.caption{
+    font-size: 20pt;
+    font-family:Verdana;
+    padding: 5px;
+    background: rgb(37,101,137);
+    color: #FFA500;
+}
